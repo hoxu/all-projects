@@ -10,3 +10,6 @@
 [submodule "viewsvn"]
 	path = viewsvn
 	url = git@gitorious.org:viewsvn/viewsvn.git
+[submodule "supybook"]
+	path = supybook
+	url = git+ssh://repo.or.cz/srv/git/supybook.git
