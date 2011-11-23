@@ -1,3 +1,6 @@
 [submodule "gitstats"]
 	path = gitstats
 	url = git@gitorious.org:gitstats/mainline.git
+[submodule "encreecia"]
+	path = encreecia
+	url = git@gitorious.org:encreecia/encreecia.git
