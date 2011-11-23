@@ -4,3 +4,6 @@
 [submodule "encreecia"]
 	path = encreecia
 	url = git@gitorious.org:encreecia/encreecia.git
+[submodule "viewgit"]
+	path = viewgit
+	url = git@gitorious.org:viewgit/mainline.git
