@@ -13,3 +13,6 @@
 [submodule "supybook"]
 	path = supybook
 	url = git+ssh://repo.or.cz/srv/git/supybook.git
+[submodule "dokuwiki-piwik"]
+	path = dokuwiki-piwik
+	url = git@gitorious.org:dokuwiki-piwik/dokuwiki-piwik.git
