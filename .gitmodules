@@ -25,3 +25,6 @@
 [submodule "html5gameoflife"]
 	path = html5gameoflife
 	url = git@github.com:hoxu/html5gameoflife.git
+[submodule "android-phoneprofiles"]
+	path = android-phoneprofiles
+	url = git@github.com:hoxu/android-phoneprofiles.git
