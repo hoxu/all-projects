@@ -19,3 +19,6 @@
 [submodule "dokuwiki-piwik-gitorious-wiki"]
 	path = dokuwiki-piwik-gitorious-wiki
 	url = git@gitorious.org:dokuwiki-piwik/dokuwiki-piwik-gitorious-wiki.git
+[submodule "dokuwiki2git"]
+	path = dokuwiki2git
+	url = git@github.com:hoxu/dokuwiki2git.git
