@@ -22,3 +22,6 @@
 [submodule "dokuwiki2git"]
 	path = dokuwiki2git
 	url = git@github.com:hoxu/dokuwiki2git.git
+[submodule "html5gameoflife"]
+	path = html5gameoflife
+	url = git@github.com:hoxu/html5gameoflife.git
