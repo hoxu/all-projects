@@ -31,3 +31,6 @@
 [submodule "greasemonkey-agilezen-fastfilter"]
 	path = greasemonkey-agilezen-fastfilter
 	url = git@gitorious.org:greasemonkey-agilezen-fastfilter/greasemonkey-agilezen-fastfilter.git
+[submodule "encrb"]
+	path = encrb
+	url = https://github.com/hoxu/encrb
