@@ -34,3 +34,6 @@
 [submodule "encrb"]
 	path = encrb
 	url = https://github.com/hoxu/encrb
+[submodule "greasemonkey-elisaviihde-url"]
+	path = greasemonkey-elisaviihde-url
+	url = git://gitorious.org/greasemonkey-elisaviihde-url/greasemonkey-elisaviihde-url.git
