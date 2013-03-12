@@ -37,3 +37,6 @@
 [submodule "greasemonkey-elisaviihde-url"]
 	path = greasemonkey-elisaviihde-url
 	url = git://gitorious.org/greasemonkey-elisaviihde-url/greasemonkey-elisaviihde-url.git
+[submodule "irssi-scripts"]
+	path = irssi-scripts
+	url = git@github.com:hoxu/irssi-scripts.git
