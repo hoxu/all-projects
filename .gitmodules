@@ -40,3 +40,6 @@
 [submodule "irssi-scripts"]
 	path = irssi-scripts
 	url = git@github.com:hoxu/irssi-scripts.git
+[submodule "ircrpg"]
+	path = ircrpg
+	url = git@gitorious.org:ircrpg/ircrpg.git
