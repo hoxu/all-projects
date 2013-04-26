@@ -46,3 +46,6 @@
 [submodule "lainalaskuri"]
 	path = lainalaskuri
 	url = git@github.com:hoxu/lainalaskuri.git
+[submodule "encreecia-javafx"]
+	path = encreecia-javafx
+	url = git@gitorious.org:encreecia/encreecia-javafx.git
