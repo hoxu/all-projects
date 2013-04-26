@@ -43,3 +43,6 @@
 [submodule "ircrpg"]
 	path = ircrpg
 	url = git@gitorious.org:ircrpg/ircrpg.git
+[submodule "lainalaskuri"]
+	path = lainalaskuri
+	url = git@github.com:hoxu/lainalaskuri.git
