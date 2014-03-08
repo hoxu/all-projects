@@ -49,3 +49,6 @@
 [submodule "encreecia-javafx"]
 	path = encreecia-javafx
 	url = git@gitorious.org:encreecia/encreecia-javafx.git
+[submodule "dhclient-tun6to4-exit-hook"]
+	path = dhclient-tun6to4-exit-hook
+	url = git@github.com:hoxu/dhclient-tun6to4-exit-hook.git
