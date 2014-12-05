@@ -52,3 +52,6 @@
 [submodule "dhclient-tun6to4-exit-hook"]
 	path = dhclient-tun6to4-exit-hook
 	url = git@github.com:hoxu/dhclient-tun6to4-exit-hook.git
+[submodule "supybot-raamattu"]
+	path = supybot-raamattu
+	url = git@github.com:hoxu/supybot-raamattu.git
