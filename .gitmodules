@@ -55,3 +55,18 @@
 [submodule "supybot-raamattu"]
 	path = supybot-raamattu
 	url = git@github.com:hoxu/supybot-raamattu.git
+[submodule "opetushallitus/aituaipaljs"]
+	path = opetushallitus/aituaipaljs
+	url = https://github.com/Opetushallitus/aituaipaljs
+[submodule "opetushallitus/aituhaku"]
+	path = opetushallitus/aituhaku
+	url = https://github.com/Opetushallitus/aituhaku
+[submodule "opetushallitus/aitu"]
+	path = opetushallitus/aitu
+	url = https://github.com/Opetushallitus/aitu
+[submodule "opetushallitus/osaan.fi"]
+	path = opetushallitus/osaan.fi
+	url = https://github.com/Opetushallitus/osaan.fi
+[submodule "opetushallitus/aipal"]
+	path = opetushallitus/aipal
+	url = https://github.com/Opetushallitus/aipal
